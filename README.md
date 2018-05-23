@@ -1,7 +1,7 @@
 # xml
 
 ### [w3schools](https://www.w3schools.com/xml/default.asp)
-
+## Basics
 - [ ] XML Tutorial
 - [ ] XML HOME
 - [ ] XML Introduction
@@ -66,12 +66,12 @@
 - [ ] XSLT Introduction
 - [ ] XSL Languages
 - [ ] XSLT Transform
-- [ ] XSLT <template>
-- [ ] XSLT <value-of>
-- [ ] XSLT <for-each>
-- [ ] XSLT <sort>
-- [ ] XSLT <if>
-- [ ] XSLT <choose>
+- [ ] XSLT template
+- [ ] XSLT value-of
+- [ ] XSLT for-each
+- [ ] XSLT sort
+- [ ] XSLT if
+- [ ] XSLT choose
 - [ ] XSLT Apply
 - [ ] XSLT on the Client
 - [ ] XSLT on the Server
